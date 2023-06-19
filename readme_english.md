@@ -35,6 +35,6 @@ Genshin Account Switcher is a tool that allows you to switch accounts for the Ch
 
 # About the Author
 
-I wrote this tool in one hour to help my busy friend manage his accounts and save him from having to enter verification codes every day. Inspired by [Bilibili: 猫猫和猫尾势不两立](https://www.bilibili.com/read/cv11004659/), I hope it will be useful to you as well.
+I wrote this tool in one hour to help my busy friend manage his accounts and save me from having to enter verification codes every day. Inspired by [Bilibili: 猫猫和猫尾势不两立](https://www.bilibili.com/read/cv11004659/), I hope it will be useful to you as well.
 
 baisebaoma 2023.6.20

@@ -24,7 +24,7 @@ Genshin Account Switcher is a tool that allows you to switch accounts for the Ch
 2. There are two methods to switch accounts:
 
   * Method 1: Drag and drop the `reg` file (e.g. `114.reg`) directly onto `switcher.bat`, and release the mouse button.
-  * Method 2: Run `switcher.bat`, follow the prompts, and enter the filename (e.g. `114.reg`) when prompted.
+  * Method 2: Run `switcher.bat`, follow the prompts, and enter the nickname (e.g. `114`) when prompted.
 
 3. If the process is successful, the program will prompt you and attempt to launch Genshin Impact.
 4. Press any key to close the window.
